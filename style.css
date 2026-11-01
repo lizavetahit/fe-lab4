@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px 40px;
+    line-height: 1.5;
+}
+
+
+#hobby-video,
+.hobby-dance {
+    cursor: pointer;
+}
+
+.buttons {
+    margin: 15px 0 30px;
+}
+
+.buttons button {
+    padding: 8px 16px;
+    margin-right: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
